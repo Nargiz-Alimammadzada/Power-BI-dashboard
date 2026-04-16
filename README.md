@@ -27,8 +27,6 @@ The Bike Store management wanted to create a comprehensive sales performance rep
 - Added dynamic date range slicer and Region filter for interactive exploration.
 - Merged all visuals into a single unified dashboard with slicers for dynamic filtering.
 
-## Dashboard
-![Bike Store Sales Dashboard](dashboard.jpeg)
 
 ## Project Insights
 - **Water Bottle - 30 oz.** is the top-selling product with **3,924 total orders**.
