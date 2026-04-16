@@ -3,8 +3,6 @@
 ## Project Objective
 The Bike Store management wanted to create a comprehensive sales performance report covering product orders, returns, revenue trends, and regional distribution. The goal is to enable the store owner to understand customer behavior, identify top-performing products and categories, and make data-driven decisions to increase sales and reduce return rates.
 
-## Dataset Used
-- <a href="dashboard.jpeg">Dataset</a>
 
 ## Questions (KPIs)
 - Compare current month sales vs previous month sales using a single chart.
